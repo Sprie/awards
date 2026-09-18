@@ -980,7 +980,7 @@ The **No.** column runs consecutively from **JSP-000001** to **JSP-001022** in d
 | JSP-000858 | [Can a four-chromatic-critical graph have minimum degree proportional to its order?](catalog-0801-0900.md#JSP-000858) | Open | No | No | Unavailable |
 | JSP-000859 | [How large a sum of ambient vertex degrees is guaranteed for some triangle in a dense graph?](catalog-0801-0900.md#JSP-000859) | Open | No | No | Unavailable |
 | JSP-000860 | [Does sufficiently high minimum degree force a spanning hypercube?](catalog-0801-0900.md#JSP-000860) | Open | No | No | Unavailable |
-| JSP-000861 | [For a monic real-rooted polynomial, how long in total can the real intervals on which its absolute value is less than one be?](catalog-0801-0900.md#JSP-000861) | Solved | Reported; source located | Pending verification | Unavailable |
+| JSP-000861 | [For a monic real-rooted polynomial, how long in total can the real intervals on which its absolute value is less than one be?](catalog-0801-0900.md#JSP-000861) | Open | No | No | Unavailable |
 | JSP-000862 | [How large a disk can lie in the region where a polynomial has modulus at most one?](catalog-0801-0900.md#JSP-000862) | Open | No | No | Unavailable |
 | JSP-000863 | [Under restrictions on polynomial zeros, how do the area and transfinite diameter of a modulus sublevel set relate?](catalog-0801-0900.md#JSP-000863) | Open | No | No | Unavailable |
 | JSP-000864 | [Can two polynomial zeros be joined within its unit-modulus sublevel set by a path of uniformly bounded length?](catalog-0801-0900.md#JSP-000864) | Open | No | No | Unavailable |
